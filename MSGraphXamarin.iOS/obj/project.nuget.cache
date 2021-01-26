@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "aN/uFvPr6REBQFUjnaWKMMVT2XtTMHptiDFBf/KTMMw4kiNn8wzPJGfubdW8SIO2lxxH+m26VPNyqwdRDFu2lQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kislay.sinha\\Documents\\MSGraphXamarin\\MSGraphXamarin\\MSGraphXamarin.iOS\\MSGraphXamarin.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kislay.sinha\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\kislay.sinha\\.nuget\\packages\\microsoft.graph\\3.21.0\\microsoft.graph.3.21.0.nupkg.sha512",
+    "C:\\Users\\kislay.sinha\\.nuget\\packages\\microsoft.graph.core\\1.23.0\\microsoft.graph.core.1.23.0.nupkg.sha512",
+    "C:\\Users\\kislay.sinha\\.nuget\\packages\\microsoft.identity.client\\4.24.0\\microsoft.identity.client.4.24.0.nupkg.sha512",
+    "C:\\Users\\kislay.sinha\\.nuget\\packages\\newtonsoft.json\\11.0.1\\newtonsoft.json.11.0.1.nupkg.sha512",
+    "C:\\Users\\kislay.sinha\\.nuget\\packages\\system.componentmodel.typeconverter\\4.3.0\\system.componentmodel.typeconverter.4.3.0.nupkg.sha512",
+    "C:\\Users\\kislay.sinha\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "C:\\Users\\kislay.sinha\\.nuget\\packages\\system.net.http\\4.3.4\\system.net.http.4.3.4.nupkg.sha512",
+    "C:\\Users\\kislay.sinha\\.nuget\\packages\\system.runtime.serialization.formatters\\4.3.0\\system.runtime.serialization.formatters.4.3.0.nupkg.sha512",
+    "C:\\Users\\kislay.sinha\\.nuget\\packages\\system.runtime.serialization.primitives\\4.3.0\\system.runtime.serialization.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\kislay.sinha\\.nuget\\packages\\system.security.securestring\\4.3.0\\system.security.securestring.4.3.0.nupkg.sha512",
+    "C:\\Users\\kislay.sinha\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\kislay.sinha\\.nuget\\packages\\timezoneconverter\\3.3.0\\timezoneconverter.3.3.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\kislay.sinha\\.nuget\\packages\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
